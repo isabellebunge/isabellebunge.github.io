@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[African Heat Projections Enabling Targeted Interventions and Improvements to Neonatal Healthcare](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/472358)
+AMS Presentation: [African Heat Projections Enabling Targeted Interventions and Improvements to Neonatal Healthcare](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/472358)
