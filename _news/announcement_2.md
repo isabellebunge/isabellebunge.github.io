@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-[GH11B-0608 Climate and Heat Projections for Africa to Enable Targeted Interventions and Improvements in Neonatal Health Outcomes](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1900717)
+AGU Poster: [GH11B-0608 Climate and Heat Projections for Africa to Enable Targeted Interventions and Improvements in Neonatal Health Outcomes](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1900717)
