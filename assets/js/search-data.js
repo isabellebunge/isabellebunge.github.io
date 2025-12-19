@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-it-s-heating-up-for-mosquitoes-impacts-of-climate-on-mosquito-populations-in-harris-county-and-what-this-means-for-vector-borne-diseases",
-          title: 'It’s Heating up for Mosquitoes: Impacts of Climate on Mosquito Populations in Harris...',
+            },},{id: "news-agu-presentation-it-s-heating-up-for-mosquitoes-impacts-of-climate-on-mosquito-populations-in-harris-county-and-what-this-means-for-vector-borne-diseases",
+          title: 'AGU Presentation: It’s Heating up for Mosquitoes: Impacts of Climate on Mosquito Populations...',
           description: "",
           section: "News",},{id: "news-african-heat-projections-enabling-targeted-interventions-and-improvements-to-neonatal-healthcare",
           title: 'African Heat Projections Enabling Targeted Interventions and Improvements to Neonatal Healthcare',
