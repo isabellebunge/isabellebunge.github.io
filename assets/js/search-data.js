@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-agu-presentation-it-s-heating-up-for-mosquitoes-impacts-of-climate-on-mosquito-populations-in-harris-county-and-what-this-means-for-vector-borne-diseases",
+          title: 'AGU Presentation: It’s Heating up for Mosquitoes: Impacts of Climate on Mosquito Populations...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
