@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: AMS Presentation 
+date: 2026-01-27 14:15 CST 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[African Heat Projections Enabling Targeted Interventions and Improvements to Neonatal Healthcare](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/472358)
