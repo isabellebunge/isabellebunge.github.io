@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "A growing collection of projection on the intersections between climate change and human health.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
